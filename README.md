@@ -4,7 +4,7 @@
 
 I'm Gurvan, a graphic designer and a (🌟new🌟) web developper working under the name "Wake Up..!".
 
-I'll host some of my 🪟 front-end and 🧠 full-stack projects here, using ```.html```, .css, .js and .php (maybe incoming .angular, .vue or .react 😶‍🌫️).
+I'll host some of my 🪟 front-end and 🧠 full-stack projects here, using ```.html```, ```.css```, ```.js``` and ```.php``` (maybe incoming ```.angular```, ```.vue``` or ```.react``` 😶‍🌫️).
 
 For the moment you'll find class projects. Yeah, I'm still learning but this profile is gonna grow up fast ! 🪜
 
