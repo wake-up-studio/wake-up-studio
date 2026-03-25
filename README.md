@@ -1,3 +1,5 @@
+<img width="1585" height="397" alt="Image" src="https://github.com/user-attachments/assets/88cd6ab8-a772-46f6-bd5c-06643dffbdf3" />
+
 ## 🐕 Welcome everyone !
 
 I'm Gurvan, a graphic designer and a (🌟new🌟) web developper working under the name "Wake Up..!".
